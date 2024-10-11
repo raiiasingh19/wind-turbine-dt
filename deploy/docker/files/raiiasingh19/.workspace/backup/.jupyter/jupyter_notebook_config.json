@@ -1,0 +1,8 @@
+{
+    "NotebookApp": {
+        "nbserver_extensions": {
+            "jupyter_tensorboard": true,
+            "jupyter_tooling.tooling_handler": true
+        }
+    }
+}
